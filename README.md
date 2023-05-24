@@ -1,4 +1,4 @@
-webhook = ""
+
 
 local HttpService = game:GetService("HttpService");
 
