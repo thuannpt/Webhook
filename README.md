@@ -1,5 +1,5 @@
 
-wait(10)
+wait(30)
 local HttpService = game:GetService("HttpService");
 
 game:GetService("Players").LocalPlayer.PlayerGui.Main.AwakeningToggler.Visible = true
