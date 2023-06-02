@@ -406,7 +406,7 @@ function SendMessage(Webhook)
 
                   ["name"] = "Fruit In Inventory",
 
-                  ["value"] = "```css\n"..FruitInevtory.."```",
+                  ["value"] = "```none\n"..FruitInevtory.."```",
 
                   ['inline'] = true
 
